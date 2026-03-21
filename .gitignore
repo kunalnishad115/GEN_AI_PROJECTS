@@ -1,0 +1,111 @@
+  # ----------------------
+# 🔐 Secrets & Environment
+# ----------------------
+.env
+.env.*
+*.env
+*.key
+*.pem
+secrets.json
+
+# API keys (OpenAI, Anthropic, etc.)
+openai_api_key.txt
+anthropic_api_key.txt
+
+# ----------------------
+# 🐍 Python
+# ----------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# ----------------------
+# 🧪 Virtual Environments
+# ----------------------
+venv/
+env/
+.venv/
+
+# ----------------------
+# 📓 Jupyter Notebooks
+# ----------------------
+.ipynb_checkpoints/
+
+# ----------------------
+# 🧠 LangChain / GenAI Specific
+# ----------------------
+
+# Vector Databases
+chroma/
+chroma_db/
+*.faiss
+*.index
+*.db
+*.sqlite3
+
+# Embeddings / Model artifacts
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+
+# LLM Cache (LangChain cache)
+.langchain_cache/
+.cache/
+
+# HuggingFace cache
+.huggingface/
+transformers_cache/
+
+# ----------------------
+# 📊 Logs & Outputs
+# ----------------------
+logs/
+*.log
+outputs/
+responses/
+
+# ----------------------
+# 🖥️ OS Files
+# ----------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# 🧰 IDE / Editor
+# ----------------------
+.vscode/
+.idea/
+
+# ----------------------
+# 🐳 Docker
+# ----------------------
+docker-compose.override.yml
+
+# ----------------------
+# 📂 Data (optional but recommended)
+# ----------------------
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+
+# ----------------------
+# 🧪 Testing / Coverage
+# ----------------------
+.coverage
+htmlcov/
+
+# ----------------------
+# 🔥 Temp files
+# ----------------------
+tmp/
+temp/
