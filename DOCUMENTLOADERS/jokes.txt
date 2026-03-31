@@ -1,0 +1,67 @@
+1. Why did the developer go broke? Because he used up all his cache.
+2. Why do programmers prefer dark mode? Because light attracts bugs.
+3. Why did the Java developer wear glasses? Because he couldn't C#.
+4. Why was the computer cold? It forgot to close its Windows.
+5. Why do Python devs hate snakes? Because of indentation errors.
+6. Why did the function break up? Too many arguments.
+7. Why do programmers hate nature? Too many bugs.
+8. Why did the database admin leave? Too many relationships.
+9. Why was the code always calm? It had exception handling.
+10. Why did the server go to therapy? It had too many requests.
+
+11. I told my code a joke, but it didn’t compile.
+12. My code works... I have no idea why.
+13. Debugging: removing bugs you accidentally added.
+14. It works on my machine.
+15. 404: Joke not found.
+16. I love deadlines. I like the whooshing sound they make.
+17. There are 10 types of people: those who understand binary and those who don’t.
+18. I would tell you a UDP joke, but you might not get it.
+19. A SQL query walks into a bar and joins two tables.
+20. I changed my password to “incorrect” so it tells me when I’m wrong.
+
+21. Why did the loop stop? It got tired of repeating itself.
+22. Why do devs use Git? To commit mistakes professionally.
+23. Why did the array break? Out of bounds.
+24. Why did the API fail? Bad endpoint choices.
+25. Why was the website so slow? Too many cookies.
+26. Why did the variable feel lonely? No references.
+27. Why was the JS dev sad? Null feelings.
+28. Why did the code panic? Stack overflow.
+29. Why was the bug so stubborn? It had deep roots.
+30. Why do coders love coffee? It helps them stay grounded.
+
+31. Why did the hacker stay calm? He had good control.
+32. Why do backend devs hate frontend? Too many styles.
+33. Why was the function lazy? Didn’t return anything.
+34. Why was the server tired? Too many hits.
+35. Why did the script crash? Unexpected input.
+36. Why did the dev quit? No scope for growth.
+37. Why do bugs hide? They fear debugging.
+38. Why was the UI so happy? It had great UX.
+39. Why did the dev get promoted? He handled exceptions well.
+40. Why did the code blush? It saw a private variable.
+
+41. Why was the repo messy? Too many conflicts.
+42. Why did the dev love recursion? It was self-referential.
+43. Why was the code so neat? It followed standards.
+44. Why did the program freeze? Infinite loop.
+45. Why did the file cry? Too many writes.
+46. Why was the dev confused? Mixed types.
+47. Why did the app crash? Null pointer exception.
+48. Why did the function argue? Bad parameters.
+49. Why was the code efficient? Optimized loops.
+50. Why did the dev sleep well? No bugs.
+
+51. Why did the coder get stuck? Missing semicolon.
+52. Why did the system fail? Dependency issues.
+53. Why was the dev stressed? Tight deadlines.
+54. Why did the code run fast? No overhead.
+55. Why was the app secure? Strong encryption.
+56. Why did the code fail? Syntax error.
+57. Why did the dev panic? Production bug.
+58. Why was the database slow? No indexing.
+59. Why did the server crash? High load.
+60. Why was the code simple? Clean logic.
+
+
