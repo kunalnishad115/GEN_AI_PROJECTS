@@ -33,8 +33,10 @@ TEXT:
 {text}
 """)
 
+
+parser= StrOutputParser()
 # ✅ LCEL Chain
-chain = prompt | llm | StrOutputParser()
+chain = prompt | llm | parser
 
 # ✅ Run
 response = chain.invoke({"text": text_data})
